@@ -1,0 +1,288 @@
+{
+    "status": "success",
+    "data": {
+        "resultType": "matrix",
+        "result": [
+            {
+                "metric": {
+                    "app": "frontend",
+                    "connection_security_policy": "unknown",
+                    "destination_app": "shippingservice",
+                    "destination_canonical_revision": "latest",
+                    "destination_canonical_service": "shippingservice",
+                    "destination_cluster": "Kubernetes",
+                    "destination_principal": "spiffe://cluster.local/ns/default/sa/shippingservice",
+                    "destination_service": "shippingservice.default.svc.cluster.local",
+                    "destination_service_name": "shippingservice",
+                    "destination_service_namespace": "default",
+                    "destination_version": "unknown",
+                    "destination_workload": "shippingservice",
+                    "destination_workload_namespace": "default",
+                    "grpc_response_status": "0",
+                    "instance": "10.68.0.21:15020",
+                    "job": "kubernetes-pods",
+                    "namespace": "default",
+                    "node": "gke-boutique-default-pool-ed594c28-8qfs",
+                    "pod": "frontend-cb9967686-gmn24",
+                    "pod_template_hash": "cb9967686",
+                    "reporter": "source",
+                    "request_protocol": "grpc",
+                    "response_code": "200",
+                    "response_flags": "-",
+                    "security_istio_io_tlsMode": "istio",
+                    "service_istio_io_canonical_name": "frontend",
+                    "service_istio_io_canonical_revision": "latest",
+                    "source_app": "frontend",
+                    "source_canonical_revision": "latest",
+                    "source_canonical_service": "frontend",
+                    "source_cluster": "Kubernetes",
+                    "source_principal": "spiffe://cluster.local/ns/default/sa/frontend",
+                    "source_workload": "frontend",
+                    "source_workload_namespace": "default"
+                },
+                "values": [
+                    [
+                        1732158420,
+                        "3"
+                    ],
+                    [
+                        1732158480,
+                        "3"
+                    ],
+                    [
+                        1732158540,
+                        "3"
+                    ],
+                    [
+                        1732158600,
+                        "3"
+                    ],
+                    [
+                        1732158660,
+                        "3.08"
+                    ],
+                    [
+                        1732158720,
+                        "3"
+                    ],
+                    [
+                        1732158780,
+                        "3"
+                    ],
+                    [
+                        1732158840,
+                        "3"
+                    ],
+                    [
+                        1732158900,
+                        "3"
+                    ],
+                    [
+                        1732158960,
+                        "3"
+                    ],
+                    [
+                        1732159020,
+                        "3"
+                    ],
+                    [
+                        1732159080,
+                        "3"
+                    ],
+                    [
+                        1732159140,
+                        "3"
+                    ],
+                    [
+                        1732159200,
+                        "3"
+                    ],
+                    [
+                        1732159260,
+                        "3"
+                    ],
+                    [
+                        1732159320,
+                        "3"
+                    ],
+                    [
+                        1732159380,
+                        "3"
+                    ],
+                    [
+                        1732159440,
+                        "3"
+                    ],
+                    [
+                        1732159500,
+                        "3"
+                    ],
+                    [
+                        1732159560,
+                        "3"
+                    ],
+                    [
+                        1732159620,
+                        "3"
+                    ],
+                    [
+                        1732159680,
+                        "3"
+                    ],
+                    [
+                        1732159740,
+                        "3"
+                    ],
+                    [
+                        1732159800,
+                        "3"
+                    ],
+                    [
+                        1732159860,
+                        "3"
+                    ],
+                    [
+                        1732159920,
+                        "3"
+                    ],
+                    [
+                        1732159980,
+                        "3"
+                    ],
+                    [
+                        1732160040,
+                        "3"
+                    ],
+                    [
+                        1732160100,
+                        "3.076923076923077"
+                    ],
+                    [
+                        1732160160,
+                        "3.0666666666666664"
+                    ],
+                    [
+                        1732160220,
+                        "3"
+                    ],
+                    [
+                        1732160280,
+                        "3"
+                    ],
+                    [
+                        1732160340,
+                        "3"
+                    ],
+                    [
+                        1732160400,
+                        "3"
+                    ],
+                    [
+                        1732160460,
+                        "3"
+                    ],
+                    [
+                        1732160520,
+                        "3"
+                    ],
+                    [
+                        1732160580,
+                        "3"
+                    ],
+                    [
+                        1732160640,
+                        "3.1428571428571432"
+                    ],
+                    [
+                        1732160700,
+                        "3"
+                    ],
+                    [
+                        1732160760,
+                        "3"
+                    ],
+                    [
+                        1732160820,
+                        "3"
+                    ],
+                    [
+                        1732160880,
+                        "3"
+                    ],
+                    [
+                        1732160940,
+                        "3"
+                    ],
+                    [
+                        1732161000,
+                        "3"
+                    ],
+                    [
+                        1732161060,
+                        "3"
+                    ],
+                    [
+                        1732161120,
+                        "3"
+                    ],
+                    [
+                        1732161180,
+                        "3"
+                    ],
+                    [
+                        1732161240,
+                        "3"
+                    ],
+                    [
+                        1732161300,
+                        "3.16"
+                    ],
+                    [
+                        1732161360,
+                        "3"
+                    ],
+                    [
+                        1732161420,
+                        "3"
+                    ],
+                    [
+                        1732161480,
+                        "3"
+                    ],
+                    [
+                        1732161540,
+                        "3"
+                    ],
+                    [
+                        1732161600,
+                        "3"
+                    ],
+                    [
+                        1732161660,
+                        "3"
+                    ],
+                    [
+                        1732161720,
+                        "3"
+                    ],
+                    [
+                        1732161780,
+                        "3"
+                    ],
+                    [
+                        1732161840,
+                        "3"
+                    ],
+                    [
+                        1732161900,
+                        "3"
+                    ],
+                    [
+                        1732161960,
+                        "3"
+                    ]
+                ]
+            }
+        ]
+    }
+}
